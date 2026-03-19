@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on **enhancing knowledge about Langchain,RAG and LLMs**  
+🔭 I’m currently working on **enhancing my  knowledge about Langchain,RAG and LLMs**  
 🌱 I’m mastering **Data Science Concepts and Neural Network**  
 💬 Ask me about **Power BI, DAX, SQL, Python, ML, Deep Learning or NLP**  
 
