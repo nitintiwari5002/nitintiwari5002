@@ -87,23 +87,3 @@
     <img src="https://img.shields.io/badge/Newsbot-Langchain%20News%20Summarizer-blue?style=for-the-badge&logo=python&logoColor=white" alt="NewsBot" />
   </a>
   <p>Streamlit app that ingests URLs into <b>vector embeddings for RAG-based Q&A.</b> Perfect for analysts, journalists, and researchers!</p>
-
-</div>
-/badge/Conscious_Flow-ML%20Conscious%20Flow-blue?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <p>An intelligent platform to help yoga enthusiasts practice yoga and prepare a detailed diet plan via <b>Streamlit + LLM Model(grok - gwen 32B)</b>.</p>
-
-  <a href="https://github.com/nitintiwari5002/Assistant-Coder">
-    <img src="https://img.shields.io/badge/Assistant_Coder-ML%20Assistant%20Coder-blue?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <p>An intelligent platform to help coders build their desired code via <b>Streamlit + LLM Model(ollama - phi3:mini)</b> and get information about the working of the code as well.</p>
-
-</div>
-
-
-  <a href="https://github.com/nitintiwari5002/NewsBot-News-Research-Tool">
-    <img src="https://img.shields.io/badge/Newsbot-Langchain%20News%20Summarizer-blue?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <p>Streamlit app that lets you ingest news articles from URLs, process them into <b>vector embeddings, and ask natural language questions to get AI-powered answers.</b> Perfect for analysts, journalists, and researchers! 
-</p>
-</div
