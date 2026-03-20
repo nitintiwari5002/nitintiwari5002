@@ -79,3 +79,11 @@ AI-powered interview preparation platform for <b>engineering students and compan
   <p>An intelligent platform to help coders build their desired code via <b>Streamlit + LLM Model(ollama - phi3:mini)</b> and get information about the working of the code as well.</p>
 
 </div>
+
+
+  <a href="https://github.com/nitintiwari5002/NewsBot-News-Research-Tool">
+    <img src="https://img.shields.io/badge/Newsbot-Langchain%20News%20Summarizer-blue?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <p>An intelligent platform to help coders build their desired code via <b>Streamlit + LLM Model(ollama - phi3:mini)</b> and get information about the working of the code as well.</p>
+
+</div
