@@ -59,17 +59,37 @@
 </div>
 
 <h2 align="center">📂 Featured Projects 📂</h2>
-<br/>
+
 <div align="center">
-  
-<a href="https://github.com/nitintiwari5002/InterviewAce">
-    <img src="https://img.shields.io/badge/Interview_Ace-ML%20Interview%20Ace-blue?style=for-the-badge&logo=python&logoColor=white" />
+
+  <a href="https://github.com/nitintiwari5002/InterviewAce">
+    <img src="https://img.shields.io/badge/Interview_Ace-ML%20Interview%20Ace-blue?style=for-the-badge&logo=python&logoColor=white" alt="Interview Ace" />
   </a>
-<p>
-AI-powered interview preparation platform for <b>engineering students and companies using Groq-qwen 32B.</b>
-</p>
-<a href="https://github.com/nitintiwari5002/-Conscious-Flow-AI-Yoga">
-    <img src="https://img.shields.io/badge/Conscious_Flow-ML%20Conscious%20Flow-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <p>AI-powered interview preparation platform for <b>engineering students and companies using Groq-qwen 32B.</b></p>
+
+  <br/>
+
+  <a href="https://github.com/nitintiwari5002/-Conscious-Flow-AI-Yoga">
+    <img src="https://img.shields.io/badge/Conscious_Flow-ML%20Conscious%20Flow-blue?style=for-the-badge&logo=python&logoColor=white" alt="Conscious Flow" />
+  </a>
+  <p>An intelligent platform to help yoga enthusiasts practice yoga and prepare a detailed diet plan via <b>Streamlit + LLM Model (Groq-Qwen 32B)</b>.</p>
+
+  <br/>
+
+  <a href="https://github.com/nitintiwari5002/Assistant-Coder">
+    <img src="https://img.shields.io/badge/Assistant_Coder-ML%20Assistant%20Coder-blue?style=for-the-badge&logo=python&logoColor=white" alt="Assistant Coder" />
+  </a>
+  <p>An intelligent platform to help coders build code via <b>Streamlit + LLM Model (Ollama-Phi3:mini)</b> and understand its internal logic.</p>
+
+  <br/>
+
+  <a href="https://github.com/nitintiwari5002/NewsBot-News-Research-Tool">
+    <img src="https://img.shields.io/badge/Newsbot-Langchain%20News%20Summarizer-blue?style=for-the-badge&logo=python&logoColor=white" alt="NewsBot" />
+  </a>
+  <p>Streamlit app that ingests URLs into <b>vector embeddings for RAG-based Q&A.</b> Perfect for analysts, journalists, and researchers!</p>
+
+</div>
+/badge/Conscious_Flow-ML%20Conscious%20Flow-blue?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <p>An intelligent platform to help yoga enthusiasts practice yoga and prepare a detailed diet plan via <b>Streamlit + LLM Model(grok - gwen 32B)</b>.</p>
 
